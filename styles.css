@@ -51,6 +51,7 @@ body {
   margin: auto 897px;
   width: 100px;
   position:relative;
+  z-index:1;
 }
 
 .help /* image. 2 */ {
@@ -59,4 +60,5 @@ body {
   border-radius: 5%;
   margin: auto 730px;
   position:relative;
+  z-index:1;
 }
