@@ -50,7 +50,7 @@ body {
   text-align: center; 
   margin: auto 897px;
   width: 100px; 
-  position: absolute; bottom: 0;
+  position: absolute;
 }
 
 .help /* image. 2 */ {
@@ -58,5 +58,5 @@ body {
   width: 440px;
   border-radius: 5%;
   margin: auto 730px;
-  position: absolute; bottom: 0;
+  position: absolute;
 }
