@@ -4,6 +4,7 @@
 
 .topnav a {
   float: left;
+  transition-duration: 0.2s;
   color: #ffffff;
   text-align: center;
   text-decoration: none;
@@ -12,7 +13,9 @@
   font-size: 15px;
 }
 
-
+.topnav a:hover {
+  background-color: gray;
+}
 
 h1 {
    text-align: center;
