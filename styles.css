@@ -49,13 +49,19 @@ body {
   border-radius: 50%;
   text-align: center; 
   margin: auto 897px;
-  width: 100px; 
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  width: 100px;
   
 }
 
 .help /* image. 2 */ {
   text-align: center; 
   width: 440px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
   border-radius: 5%;
   margin: auto 730px;
   position:absolute;
