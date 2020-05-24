@@ -62,7 +62,7 @@ body {
 
 .help /* image. 2 */ { 
   text-align: center; 
-  width: 440px;
   border-radius: 5%;
-  margin: auto 730px;
+  margin: auto 650px;
+  position:absolute;
 }
