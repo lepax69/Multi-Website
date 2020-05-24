@@ -43,7 +43,6 @@ h1 {
 
 body {
     background: linear-gradient(270deg, #6d6d6d, black);
-    background-size: 400% 400%;
     position: initial;
     display: inline-block;
 }
