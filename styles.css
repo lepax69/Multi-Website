@@ -40,16 +40,36 @@ body {
 
 .button1 {
   border: 3px white solid;
-  padding: 10px 20px;
+  padding: 10px 30px;
   text-align: center;
   font-family: Andale Mono, monospace;
   text-decoration: none;
   color: white;
   display: inline-block;
   transition: 0.5s;
+  transform: translateZ(-200%);
+  margin-left: -229px;
+}
+
+.button2 {
+  border: 3px white solid;
+  padding: 10px 25px;
+  text-align: center;
+  font-family: Andale Mono, monospace;
+  text-decoration: none;
+  color: white;
+  display: inline-block;
+  transition: 0.5s;
+  transform: translateX(-150%);
+  margin-left: 30px;
 }
 
 .button:hover {
+  background-color: white;
+  color: black;
+}
+
+.button2:hover {
   background-color: white;
   color: black;
 }
